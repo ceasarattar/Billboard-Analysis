@@ -1,5 +1,5 @@
-   /*  Program 4: BillBoard Analysis
-    This program analyzes weekly Billboard data spanning   from 1960 - 2020.
+/*  BillBoard Analysis
+    This program analyzes weekly Billboard data spanning from 1960 - 2020.
     Author: Ceasar Attaar
     Date: March 29, 2022
     System: Visual Studio Code, macOS
@@ -489,4 +489,3 @@ int main()
   
     return 0;
 } // end main()
-
